@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the meaning of Waqt Al Salaah?",
+    "answer": "Waqt means time, Al means the/of and Salaah means Prayer or Namaz. Waqt Al Salaah means Time of Prayer/Namaz.",
+    "expanded": true
+  },
+  {
+    "question": "Do I need to pay for this app?",
+    "answer": "No, the app is totally free of cost.",
+    "expanded": false
+  },
+  {
+    "question": "Which country’s Salaah timing does the app show?",
+    "answer": "The app is integrated with almost all countries with cities to provide the perfect timing of Salaah. In addition, the app also has the feature of Calculation Method and Madhhab Setting.",
+    "expanded": false
+  },
+  {
+    "question": "How to choose the location?",
+    "answer": "Location can be chosen automatically or it can be selected manually. Location can be changed from location settings.",
+    "expanded": false
+  },
+  {
+    "question": "How many languages does the app support?",
+    "answer": "Currently, the app supports the English language only. More language support will be added later.",
+    "expanded": false
+  },
+  {
+    "question": "How does the app function?",
+    "answer": "The app shows the current time and the remaining time for the next Salaah. It provides notifications for every Salaah which can be customized according to the user’s preference. It shows the Qibla direction with better accuracy and calibration. The app has a Hijri Calendar. Moreover, the app also shows the Salaah timing of any day.",
+    "expanded": false
+  },
+  {
+    "question": "Is there any other feature in the app other than Salaah alert?",
+    "answer": "The app has Tasbih which is customizable. Users can save as many tasbih or du’a as possible and set the number of times it will be read.",
+    "expanded": false
+  },
+  {
+    "question": "Can I change the display colour?",
+    "answer": "There are various colours provided to choose from in the display setting. Choose the colour and you are set.",
+    "expanded": false
+  }
+]
